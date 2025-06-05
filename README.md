@@ -43,4 +43,4 @@ Projeto acadêmico — uso educacional apenas.
 
 ## 👩‍💻 Autoras
 - Fabiana Dorado 
-- Gicélia Queiroz
+- Gicelia Queiros
